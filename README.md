@@ -37,7 +37,7 @@ By the end of this session, you should be able to:
 ### 2. Add Yourself to Contributors
 1. Create a new branch with your name:
    ```
-   git checkout -b add-yourname
+   git checkout -b add-yourname origin/main
    ```
 2. Open the file **`contributors.md`** and add your name at the bottom of the list.
 3. Save your changes, then commit and push:
