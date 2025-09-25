@@ -10,5 +10,6 @@ Each student should add their name below when they create their first pull reque
 - [ ] **Student 1** – Anthony M
 - [ ] **David Cronin** – (added)
 - [ ] **Student 3** – (to be added)
+- [4] Thanusan Kanagasingam
 - [ ] ** Nkr_3** - (to be added)
----
+
